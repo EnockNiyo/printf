@@ -1,4 +1,4 @@
-.TH man 3 "19 April 2022" "ALX Project" "_printf man page"
+.TH man 3 "25 April 2023" "ALX Project" "_printf man page"
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -66,4 +66,5 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-El Pacific Binagha, Willy Pascal Willy
+NIYOMWUNGERI Enock, Penny Phala
+
